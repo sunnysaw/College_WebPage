@@ -1,0 +1,11 @@
+/* body{
+    background-color: antiquewhite;
+} */
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    font-weight: 800;
+}
+h5{
+    color: rgb(79, 121, 199)    ;
+}
